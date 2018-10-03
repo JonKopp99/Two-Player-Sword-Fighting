@@ -10,4 +10,4 @@ Select two character and what weather you want!
 
 First player W,A,S,D, Q to jump.
 
-Second player UP,DOWN,LEFT,RIGHT, CTR to jump.
+Second player UP,DOWN,LEFT,RIGHT, and CTR to jump.
